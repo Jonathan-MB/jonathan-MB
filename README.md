@@ -36,11 +36,13 @@
 <p>Cuando no estoy programando, disfruto viendo películas y series, jugando algunos videojuegos para relajarme y explorando nuevas comidas, ya sea cocinando en casa (algo que me gusta mucho) o probando restaurantes. Además, en el pasado, fui jugador de rugby, lo que me enseñó lo importante que es trabajar en equipo y ser dedicado. Estos valores son parte de mi vida personal, laboral y proyectos profesionales.</p>
 
 <!-- Contacto -->
+<!-- Contacto -->
 <h3>Contacto</h3>
-<p>
-  - ✉️ Email: [develobri@gmail.com](mailto:develobri@gmail.com)
-</p>
-<p>
-  - 💼 LinkedIn: [linkedin.com/in/jonathan-mb-developer](https://www.linkedin.com/in/jonathan-mb-developer)
-</p>
+
+| ✉️ Email: [develobri@gmail.com](mailto:develobri@gmail.com) |
+| :-------------------------------------------------------- |
+
+| 💼 LinkedIn: [linkedin.com/in/jonathan-mb-developer](https://www.linkedin.com/in/jonathan-mb-developer) |
+| :-------------------------------------------------------------------------------------------------- |
+
 
