@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Framework-Laravel-orange">
   <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow">
   <img src="https://img.shields.io/badge/Librerías-JQuery%20%7C%20Ajax-blueviolet">
-  <img src="https://img.shields.io/badge/Base%20de%20Datos-MySQL-blue">
+  <img src="https://img.shields.io/badge/Base%20de%20Datos-PL/SQL%20%7C%20MySQL-blue">
   <img src="https://img.shields.io/badge/Lenguaje%20de%20Marcado-HTML-green">
   <img src="https://img.shields.io/badge/Estilos-CSS-brightgreen">
   <img src="https://img.shields.io/badge/Librería%20de%20Estilos-Bootstrap-purple">
