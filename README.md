@@ -39,10 +39,11 @@
 <!-- Contacto -->
 <h3>Contacto</h3>
 
-| ✉️ Email: [develobri@gmail.com](mailto:develobri@gmail.com) |
+| ✉️ Email: [Marinjonathan40@gmail.com](mailto:develobri@gmail.com) |
 | :-------------------------------------------------------- |
 
 | 💼 LinkedIn: [linkedin.com/in/jonathan-mb-developer](https://www.linkedin.com/in/jonathan-mb-developer) |
 | :-------------------------------------------------------------------------------------------------- |
+
 
 
